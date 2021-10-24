@@ -1,0 +1,9 @@
+Filled container:
+Container contains 7 elements.
+0: It symbols cipher: ciphered_text = ruls, deciphered_text = make. function_result = 103.5
+1: It Cyclic cipher: ciphered_text = fdhsjghdk, deciphered_text = omq|spqmt. function_result = 113.556
+2: It Number cipher: ciphered_text = 1523049, deciphered_text = friend. function_result = 105.333
+3: It Cyclic cipher: ciphered_text = abcdefgh, deciphered_text = bcdefghi. function_result = 101.5
+4: It Cyclic cipher: ciphered_text = abcdefgh, deciphered_text = cdefghij. function_result = 102.5
+5: It Cyclic cipher: ciphered_text = ab, deciphered_text = bc. function_result = 98.5
+6: It Number cipher: ciphered_text = 1816152304911, deciphered_text = myFriends. function_result = 105

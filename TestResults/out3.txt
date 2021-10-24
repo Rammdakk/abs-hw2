@@ -1,0 +1,16 @@
+Filled container:
+Container contains 14 elements.
+0: It Cyclic cipher: ciphered_text = alphabet, deciphered_text = p{wpqtƒ. function_result = 87.125
+1: It symbols cipher: ciphered_text = wer, deciphered_text = dfg. function_result = 101.667
+2: It Cyclic cipher: ciphered_text = test, deciphered_text = yjxy. function_result = 117
+3: It symbols cipher: ciphered_text = abc, deciphered_text = bcd. function_result = 99
+4: It symbols cipher: ciphered_text = test, deciphered_text = rwer. function_result = 112
+5: It Number cipher: ciphered_text = 123, deciphered_text = abc. function_result = 98
+6: It Cyclic cipher: ciphered_text = abc, deciphered_text = cde. function_result = 100
+7: It symbols cipher: ciphered_text = ruls, deciphered_text = make. function_result = 103.5
+8: It Cyclic cipher: ciphered_text = fdhsjghdk, deciphered_text = omq|spqmt. function_result = 113.556
+9: It Number cipher: ciphered_text = 1523049, deciphered_text = friend. function_result = 105.333
+10: It Cyclic cipher: ciphered_text = abcdefgh, deciphered_text = bcdefghi. function_result = 101.5
+11: It Cyclic cipher: ciphered_text = abcdefgh, deciphered_text = cdefghij. function_result = 102.5
+12: It Cyclic cipher: ciphered_text = ab, deciphered_text = bc. function_result = 98.5
+13: It Number cipher: ciphered_text = 1816152304911, deciphered_text = myFriends. function_result = 105
