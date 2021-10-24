@@ -1,0 +1,8 @@
+Filled container:
+Container contains 6 elements.
+0: It symbols cipher: ciphered_text = wer, deciphered_text = dfg. function_result = 101.667
+1: It Cyclic cipher: ciphered_text = test, deciphered_text = yjxy. function_result = 117
+2: It symbols cipher: ciphered_text = abc, deciphered_text = bcd. function_result = 99
+3: It symbols cipher: ciphered_text = test, deciphered_text = rwer. function_result = 112
+4: It Number cipher: ciphered_text = 123, deciphered_text = abc. function_result = 98
+5: It Cyclic cipher: ciphered_text = abc, deciphered_text = cde. function_result = 100
