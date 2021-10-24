@@ -1,0 +1,19 @@
+1
+wer
+w d e f r g
+2
+test
+5
+1
+abc
+a b b c c d
+1
+test
+t q e w s e t r
+3
+3
+1 2 3
+a 1 b 2 c 3
+2
+abc
+2
