@@ -1,0 +1,1 @@
+./main -n 10000 out6.txt sortedout6.txt
