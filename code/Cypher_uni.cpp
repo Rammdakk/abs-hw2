@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
-// Cypher_uni.cpp - содержит процедуры связанные с обработкой обобщенной фигуры
-// и создания произвольной фигуры
+// Cypher_uni.cpp - содержит методы связанные с обработкой обобщенной строки
+// и создания произвольной строки шифра.
 //------------------------------------------------------------------------------
 
 #include "Cypher_uni.h"
@@ -9,7 +9,6 @@
 #include "Number.h"
 
 //------------------------------------------------------------------------------
-Random Cypher_uni::rnd20(1, 20);
 Random Cypher_uni::rnd3(1, 3);
 
 //------------------------------------------------------------------------------
@@ -58,40 +57,5 @@ Cypher_uni *Cypher_uni::StaticInRnd() {
             return 0;
     }
 }
-//
-////------------------------------------------------------------------------------
-//// Вывод параметров текущей строки в поток
-//void Out(Cypher_uni &s, ofstream &ofst) {
-//    switch (s.k) {
-//        case Cypher_uni::SYMBOLS:
-//            Out(s.s, ofst);
-//            break;
-//        case Cypher_uni::CYCLIC:
-//            Out(s.c, ofst);
-//            break;
-//        case Cypher_uni::NUMBER:
-//            Out(s.n, ofst);
-//            break;
-//        default:
-//            ofst << "Incorrect figure!" << endl;
-//    }
-//}
-//
-////------------------------------------------------------------------------------
-//// Вычисление функции строки
-//double Devision(Cypher_uni &s) {
-//    switch (s.k) {
-//        case Cypher_uni::SYMBOLS:
-//            return Devision(s.s);
-//            break;
-//        case Cypher_uni::CYCLIC:
-//            return Devision(s.c);
-//            break;
-//        case Cypher_uni::NUMBER:
-//            return Devision(s.n);
-//            break;
-//        default:
-//            return 0.0;
-//    }
-//}
+
 
