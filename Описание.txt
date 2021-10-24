@@ -64,10 +64,28 @@
 Характеристики второй разработанной программы - Объектно-ориентированный стиль
  Общий размер проекта: 22 Кб
 	Класс Container - 80008 байт
-	Класс Cypher_uni - 8 байт
+	-int len - 4 байта
+	-Cypher_uni *storage[10000] - 80000 байт - каждый элемент по 8 байт
+
+	Класс Cypher_uni - 4 байт
+	-Random rnd3 - 4 байта
+
 	Класс Cyclic - 216 байт
+	-int cypher - 4 байта
+    	-char ciphered_text[100] - 100 байт
+    	-char deciphered_text[100] - 100 байт
+
 	Класс Number - 1312 байт
+	-int lenght - 4 байта
+    	-int cypher[2][100] - 800 байт
+    	-int ciphered_text[100] - 400 байт
+    	-char deciphered_text[100] - 100 байт
+
 	Класс Symbols - 416 байт
+	-int length - 4 байта
+    	-char ciphered_text[100] - 100 байт
+   	-char deciphered_text[100] - 100 байт
+    	-char cypher[2][100] - 200 байт
 
  Число программных файлов проекта: 13
  Sources:
